@@ -1,0 +1,16 @@
+https://medium.com/@darshipatel/web-scrapping-rss-feed-using-python-fb82370562b3
+https://github.com/DARSHITA188/RSSfeedParser_SentimentAnalysis
+https://towardsdatascience.com/web-scraping-basics-82f8b5acd45c
+https://medium.com/swlh/web-scraping-with-python-using-beautifulsoup-and-mongodb-6f15f6b04d68
+https://www.geeksforgeeks.org/extract-json-from-html-using-beautifulsoup-in-python/
+
+mongodb+srv://dayakar:<password>@clustertest.lgfcs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+client = pymongo.MongoClient("mongodb+srv://dayakar:<password>@clustertest.lgfcs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+db = client.test
+ username : dayakar
+ password : 3292@wtt (3292%40wtt)
+ 
+ database : newsDb
+ collection name : news
+ 
