@@ -1,0 +1,21 @@
+* Install json and requests, mongodb and mongosrv libraries
+ * incase you want to scrap the data using beautiful soup install bs4
+  !pip3 install requests -- required for data extraction 
+  !pip3 install bs4 -- webscraping package
+  !pip3 install json - used for json convertion 
+  !pip3 install pymongo pymongo[srv]
+ * convert the json string to json object - this important step
+
+ # Step 2
+
+ * Install python mongodb connectors for connecting with Pyspark
+    !pip3 install pymongo[srv]
+    !pip3 install Pyspark
+
+* Load the data from mongodb
+* Perform EDA to study the data
+* Select the relevant columns for modeling
+* Split the data for train and test 
+* Model the data with different algorithms
+* Evaluate the models and select the best performing and optimized model
+* Save the model using pyfunc/mlflow 

@@ -92,7 +92,7 @@ from pymongo import MongoClient
 # data = pd.read_csv('BBCdata1.csv')
 # Connect to MongoDB
 # client =  MongoClient("mongodb+srv://Dayakar:<3292%40wtt>@clustertest-icsum.mongodb.net/test?retryWrites=true&w=majority")
-client = pymongo.MongoClient("mongodb+srv://dayakar:3292%40wtt@clustertest.lgfcs.mongodb.net/newsDb?retryWrites=true&w=majority")
+# client = pymongo.MongoClient("mongodb+srv://dayakar:3292%40wtt@clustertest.lgfcs.mongodb.net/newsDb?retryWrites=true&w=majority")
 # db = client.test
 db = client['newsDb']
 collection = db['news']

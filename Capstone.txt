@@ -3,6 +3,7 @@ https://github.com/DARSHITA188/RSSfeedParser_SentimentAnalysis
 https://towardsdatascience.com/web-scraping-basics-82f8b5acd45c
 https://medium.com/swlh/web-scraping-with-python-using-beautifulsoup-and-mongodb-6f15f6b04d68
 https://www.geeksforgeeks.org/extract-json-from-html-using-beautifulsoup-in-python/
+https://towardsdatascience.com/multi-class-text-classification-with-pyspark-7d78d022ed35 - reference for model
 
 mongodb+srv://dayakar:<password>@clustertest.lgfcs.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
