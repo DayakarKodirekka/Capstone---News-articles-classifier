@@ -1,0 +1,16 @@
+artifact_path: model
+databricks_runtime: 10.0.x-cpu-ml-scala2.12
+flavors:
+  mleap:
+    mleap_version: 0.18.1
+    model_data: mleap/model
+  python_function:
+    data: sparkml
+    env: conda.yaml
+    loader_module: mlflow.spark
+    python_version: 3.8.10
+  spark:
+    model_data: sparkml
+    pyspark_version: 3.2.0
+run_id: d89ed0f030454f03b4ce434b11f5949c
+utc_time_created: '2021-10-26 01:16:48.606366'
