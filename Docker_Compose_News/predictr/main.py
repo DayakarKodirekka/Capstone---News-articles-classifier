@@ -31,7 +31,7 @@ def ping():
 # Route to do the prediction using the ML model defined.
 # Payload: QueryIn containing the parameters
 # Response: QueryOut containing the flower_class predicted (200)
-def predict_penguin(query_data: QueryIn):
+def predict_news(query_data: QueryIn):
     output = {"news_Cat": predict(query_data)}
     return output
 
